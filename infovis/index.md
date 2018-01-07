@@ -6,8 +6,8 @@ modified:
 excerpt: 
 tags: []
 image: 
-  feature: UMR.gif
-  teaser: UMR.gif
+  feature: final_tab.png
+  teaser: final_tab.png
 ---
 
 
