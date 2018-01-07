@@ -7,8 +7,6 @@ image:
   teaser: noodles.png
   feature: 
 ---
-
-
 ---
   <div class='tableauPlaceholder' id='viz1515315349344' style='position: relative'><noscript>
     <a href='#'>
