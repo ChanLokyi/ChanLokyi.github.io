@@ -5,10 +5,8 @@ date:   2018-01-01 08:45:50 +0800
 categories: tableau
 image:
   teaser: final_tableau1.png
-  feature: final_tableau.jpg
+  feature: 
 ---
-
-
 
 
 ---
