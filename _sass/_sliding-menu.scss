@@ -89,7 +89,7 @@
     @include media($large) {
       margin-right: 20%;
     }
-    color: $white;
+    color: 	#000000;
     @include font-size(14);
     @include media($small) {
       @include font-size(16);
@@ -127,7 +127,7 @@
   .menu-item {
     a {
       display: block;
-      color: $white;
+      color: 	#000000;
       text-decoration: none;
     }
     .teaser {
@@ -135,7 +135,7 @@
       left: 0;
       margin-bottom: 0;
       width: 50px;
-      border: 1px solid $white;
+      border: 1px solid #000000;
       margin-bottom: ($gutter / 2);
       opacity: 0.6;
       @include media($small) {
@@ -172,7 +172,7 @@
   }
   .sub-menu-item > li a {
     display: block;
-    color: $white;
+    color: #000000;
     font-style: italic;
   }
   .menu-item .home a {

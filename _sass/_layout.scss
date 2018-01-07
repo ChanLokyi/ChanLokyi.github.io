@@ -26,7 +26,7 @@
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
-	color: $black;
+	color: #7ABF82;
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(20,no);
@@ -111,7 +111,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: #595959;
+			color: #313130;
 			text-transform: uppercase;
 		}
 	}
@@ -166,15 +166,7 @@
 					@include font-size(20,yes,30);
 				}
 			}
-			// cleaner underlines for links
-			a { text-decoration: none; }
-			p a,
-			li a {
-				border-bottom: 1px dotted lighten($link-color, 50);
-				&:hover {
-					border-bottom-style: solid;
-				}
-			}
+			
 			p > a.reversefootnote {
 				border-bottom-width: 0;
 			}
