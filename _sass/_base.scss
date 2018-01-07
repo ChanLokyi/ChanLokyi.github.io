@@ -8,7 +8,7 @@
 
 body {
 	font-family: $base-font;
-	color: #7ABF82;
+	color: #000000;
     background-image:
       linear-gradient(rgba(255, 255, 240, 0.9), rgba(255, 255, 240, 0.7)), 
       url('../images/mountain.svg');
@@ -49,6 +49,13 @@ h6 {
 	@include font-size(18);
 }
 
+/* Underlined text */
+
+u,
+ins {
+	text-decoration: none;
+	border-bottom: 1px solid $text-color;
+}
 
 /* Links */
 
